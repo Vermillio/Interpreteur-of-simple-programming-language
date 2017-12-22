@@ -1,0 +1,9 @@
+Program <Fibonacci> is running
+Enter number:
+Fibonacci number:
+55
+N = 
+8
+
+
+Program terminated succesfully
